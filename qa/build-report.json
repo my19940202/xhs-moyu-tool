@@ -1,0 +1,82 @@
+{
+  "models": [
+    {
+      "id": "madai",
+      "source": "assets/madai_lo.glb",
+      "geometryBytes": 27180
+    },
+    {
+      "id": "aji",
+      "source": "assets/aji_lo.glb",
+      "geometryBytes": 26636
+    },
+    {
+      "id": "seabass",
+      "source": "assets/suzuki_lo.glb",
+      "geometryBytes": 25688
+    },
+    {
+      "id": "saba",
+      "source": "assets/saba_lo.glb",
+      "geometryBytes": 25688
+    },
+    {
+      "id": "buri",
+      "source": "assets/buri_lo.glb",
+      "geometryBytes": 25936
+    },
+    {
+      "id": "hiramasa",
+      "source": "assets/hiramasa_lo.glb",
+      "geometryBytes": 25632
+    },
+    {
+      "id": "kihada",
+      "source": "assets/kihada_lo.glb",
+      "geometryBytes": 28360
+    },
+    {
+      "id": "kurodai",
+      "source": "assets/kurodai_lo.glb",
+      "geometryBytes": 26784
+    },
+    {
+      "id": "mebaru",
+      "source": "assets/mebaru_lo.glb",
+      "geometryBytes": 27000
+    },
+    {
+      "id": "kasago",
+      "source": "assets/kasago_lo.glb",
+      "geometryBytes": 27780
+    },
+    {
+      "id": "magochi",
+      "source": "assets/magochi_lo.glb",
+      "geometryBytes": 26784
+    },
+    {
+      "id": "kamasu",
+      "source": "assets/kamasu_lo.glb",
+      "geometryBytes": 25688
+    },
+    {
+      "id": "sawara",
+      "source": "assets/sawara_lo.glb",
+      "geometryBytes": 25880
+    },
+    {
+      "id": "tachiuo",
+      "source": "assets/tachiuo_lo.glb",
+      "geometryBytes": 24372
+    },
+    {
+      "id": "isaki",
+      "source": "assets/isaki.glb",
+      "geometryBytes": 179712
+    }
+  ],
+  "source": "https://cda-social.github.io/fish/kit/fish-kit.zip",
+  "format": "local glTF scripts with separate texture files",
+  "zipBytes": 4200437
+}
